@@ -1,0 +1,21 @@
+{
+    "name": "seniopath/orm",
+    "description": "seniopath orm for php",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "seniopath\\orm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stanisław Paska",
+            "email": "edupanel.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8.3"
+    }
+}
